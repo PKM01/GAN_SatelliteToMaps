@@ -3,7 +3,6 @@ Image-to-Image Translation with Generative Adversarial Networks
 Keras implementation for learning an image-to-image translation (i.e. pix2pix) without input-output pairs.
 
 This package includes GAN_model, GAN_satellite2maproutes, instancenormalization.
-The code was written by Pankaj Kumar Magar and Vedant Parwal.
 
 Setup
 ---------------------------------------------------------------------------------------------------------------------------
