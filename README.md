@@ -30,7 +30,7 @@ Train the model
 	
 Acknowledgments
 ---------------------------------------------------------------------------------------------------------------------------
-	Some part of code is borrowed from pix2pix and DCGAN. The code is modified to work for unpaired images and both 
-way translation using resnet architecture. The generative network is adopted from neural-style with Instance Normalization.
+	Some part of code is borrowed from pix2pix and DCGAN. The code is modified to work for unpaired images and both way 
+	translation using resnet architecture. The generative network is adopted from neural-style with Instance Normalization.
 
 
